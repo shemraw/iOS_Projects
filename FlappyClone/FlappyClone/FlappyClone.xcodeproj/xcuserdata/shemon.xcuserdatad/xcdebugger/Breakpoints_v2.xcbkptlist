@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlappyClone/AppDelegate.swift"
+            timestampString = "578559090.865226"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlappyClone.AppDelegate.__allocating_init() -&gt; FlappyClone.AppDelegate"
+                  moduleName = "FlappyClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shemon/Desktop/FlappyClone/FlappyClone/AppDelegate.swift"
+                  timestampString = "578124830.884946"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlappyClone.AppDelegate.init() -&gt; FlappyClone.AppDelegate"
+                  moduleName = "FlappyClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shemon/Desktop/FlappyClone/FlappyClone/AppDelegate.swift"
+                  timestampString = "578124830.887125"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlappyClone.AppDelegate.__deallocating_deinit"
+                  moduleName = "FlappyClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shemon/Desktop/FlappyClone/FlappyClone/AppDelegate.swift"
+                  timestampString = "578124830.88947"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "FlappyClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shemon/Desktop/FlappyClone/FlappyClone/AppDelegate.swift"
+                  timestampString = "578124830.891577"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
